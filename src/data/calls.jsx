@@ -53,8 +53,7 @@ export const CallsContact = [
     id: 2,
     name: "Kohli",
     type: "Run Machine",
-    avatar:
-      "https://cdn-icons.flaticon.com/png/128/3107/premium/3107148.png?token=exp=1636859962~hmac=2bee75e0f6c54fc2fd4fac1d1dcaff21",
+    avatar: "https://cdn-icons-png.flaticon.com/128/2922/2922510.png",
   },
   {
     id: 3,
