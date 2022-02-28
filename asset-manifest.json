@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Microsoft_Teams_Clone/static/css/main.dbaf236c.chunk.css",
+    "main.js": "/Microsoft_Teams_Clone/static/js/main.2947e2a2.chunk.js",
+    "main.js.map": "/Microsoft_Teams_Clone/static/js/main.2947e2a2.chunk.js.map",
+    "runtime-main.js": "/Microsoft_Teams_Clone/static/js/runtime-main.b65c25c9.js",
+    "runtime-main.js.map": "/Microsoft_Teams_Clone/static/js/runtime-main.b65c25c9.js.map",
+    "static/js/2.b3872c23.chunk.js": "/Microsoft_Teams_Clone/static/js/2.b3872c23.chunk.js",
+    "static/js/2.b3872c23.chunk.js.map": "/Microsoft_Teams_Clone/static/js/2.b3872c23.chunk.js.map",
+    "static/js/3.43f2ca27.chunk.js": "/Microsoft_Teams_Clone/static/js/3.43f2ca27.chunk.js",
+    "static/js/3.43f2ca27.chunk.js.map": "/Microsoft_Teams_Clone/static/js/3.43f2ca27.chunk.js.map",
+    "index.html": "/Microsoft_Teams_Clone/index.html",
+    "static/css/main.dbaf236c.chunk.css.map": "/Microsoft_Teams_Clone/static/css/main.dbaf236c.chunk.css.map",
+    "static/js/2.b3872c23.chunk.js.LICENSE.txt": "/Microsoft_Teams_Clone/static/js/2.b3872c23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b65c25c9.js",
+    "static/js/2.b3872c23.chunk.js",
+    "static/css/main.dbaf236c.chunk.css",
+    "static/js/main.2947e2a2.chunk.js"
+  ]
+}
